@@ -18,7 +18,22 @@ how modern antivirus software works using:
 > It is **NOT a replacement** for commercial antivirus software.
 
 ---
+## 🧰 Requirements
 
+### ✅ Python Version
+- **Python 3.8 or higher**
+- Works on:
+  - Termux (Android)
+  - Linux
+  - Windows
+
+### 📦 Required Python Modules
+
+Only the following modules are required:
+
+```bash
+pip install cryptography requests
+```
 ## 🚀 Features
 
 ### 🔍 File Protection
